@@ -10,6 +10,8 @@ Run this notebook talk online, interactively on mybinder.org:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aoeftiger/TUDa-NMAP-02/v1.0)
 
+or on the [local TU Darmstadt jupyterhub $\nearrow$](https://tu-jupyter-i.ca.hrz.tu-darmstadt.de/) if you have a TU ID.
+
 You also find the rendered slides [here](https://aoeftiger.github.io/TUDa-NMAP-02/).
 
 ## Run locally
