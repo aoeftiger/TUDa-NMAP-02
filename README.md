@@ -8,7 +8,7 @@ Second part of a jupyter notebook lecture series, held on 28.10.2022.
 
 Run this notebook talk online, interactively on mybinder.org:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aoeftiger/TUDa-NMAP-02/v1.0?labpath=lecture.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aoeftiger/TUDa-NMAP-02/v1.0)
 
 You also find the rendered slides [here](https://aoeftiger.github.io/TUDa-NMAP-02/).
 
